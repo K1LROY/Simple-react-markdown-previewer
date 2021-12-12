@@ -1,0 +1,10 @@
+.progress-wrapper {
+  height: 100%;
+  width: 30%;
+  flex-grow: 1;
+  background-color: white;
+}
+
+.container {
+  margin: 10vh auto;
+}

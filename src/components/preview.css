@@ -1,0 +1,20 @@
+.preview-wrapper {
+  position: relative;
+  height: 100%;
+  flex-grow: 1;
+  color: black;
+  z-index: 2;
+}
+
+.preview-wrapper .button-format {
+  cursor: none;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  z-index: 20;
+}
+
+.markdown {
+  height: 100%;
+  width: 100%;
+}
