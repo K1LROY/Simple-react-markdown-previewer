@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Simple-react-markdown-previewer/static/css/main.e5a694d4.chunk.css",
+    "main.js": "/Simple-react-markdown-previewer/static/js/main.e0c4b1f4.chunk.js",
+    "main.js.map": "/Simple-react-markdown-previewer/static/js/main.e0c4b1f4.chunk.js.map",
+    "runtime-main.js": "/Simple-react-markdown-previewer/static/js/runtime-main.d7407dfa.js",
+    "runtime-main.js.map": "/Simple-react-markdown-previewer/static/js/runtime-main.d7407dfa.js.map",
+    "static/css/2.3485279b.chunk.css": "/Simple-react-markdown-previewer/static/css/2.3485279b.chunk.css",
+    "static/js/2.6f6100be.chunk.js": "/Simple-react-markdown-previewer/static/js/2.6f6100be.chunk.js",
+    "static/js/2.6f6100be.chunk.js.map": "/Simple-react-markdown-previewer/static/js/2.6f6100be.chunk.js.map",
+    "index.html": "/Simple-react-markdown-previewer/index.html",
+    "static/css/2.3485279b.chunk.css.map": "/Simple-react-markdown-previewer/static/css/2.3485279b.chunk.css.map",
+    "static/css/main.e5a694d4.chunk.css.map": "/Simple-react-markdown-previewer/static/css/main.e5a694d4.chunk.css.map",
+    "static/js/2.6f6100be.chunk.js.LICENSE.txt": "/Simple-react-markdown-previewer/static/js/2.6f6100be.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/Simple-react-markdown-previewer/static/media/fa-solid-900.eeccf4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7407dfa.js",
+    "static/css/2.3485279b.chunk.css",
+    "static/js/2.6f6100be.chunk.js",
+    "static/css/main.e5a694d4.chunk.css",
+    "static/js/main.e0c4b1f4.chunk.js"
+  ]
+}
